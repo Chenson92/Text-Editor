@@ -29,7 +29,7 @@ This is a text editor that runs in the browser. You can create notes or code sni
 ## Links
 
 - GitHub: https://github.com/Chenson92/Text-Editor
-- Heroku:
+- Heroku: https://text-editor-by-doris-12f5ca03ec68.herokuapp.com/
 
 ## License
 
